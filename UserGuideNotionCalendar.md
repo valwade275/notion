@@ -25,13 +25,25 @@ This user guide is for beginners who are looking to enhance their productivity w
 * Link the Notion Calendar to your Notion workspace. 
 * *Optional*: You may choose to enable event notifications to receive reminders for upcoming events on your device.
 
+> :memo: **Note:** If you require more assistance with these *Getting Started* steps, select *Help & Support* near the bottom of the left menu panel in your desktop Notion app. 
+
 </details>
 
 <details>
 <summary>2. Creating Events and Tasks</summary>
+
 * Create Events
-* Change Location and Type
-* Change Status and Privacy
+    * To create a new event on desktop, open Notion Calendar and select a time slot. Enter the details (event title, start and end times, location, etc.). If you want to add other participants, select *Send Invite*. On mobile, select the *+* symbol at the bottom right of your screen, and then enter the event details. Once you are finished, select *Done* or *Send Invite*. 
+    
+    > :memo: **Note:** You can create events that last multiple days, and you can use various types of text formatting in your event description. 
+
+* Change Location, Type, and Status
+    * To add, edit, or remove the event's location, select the *Location* field and make your changes. 
+    * To add, edit, or remove the event's type, open the dropdown menu within the event. There are three event types: *Event*, *Focus time*, and *Out of Office*. Select your desired type. 
+    * To show your status as *Busy* or *Free*, use the right panel within the event. Similarly, you can edit the event's privacy by choosing *Public* or *Private*. 
+
+    > :memo: **Note:** Some of these options are only available for Google Workspace accounts at this time. 
+
 </details>
 
 <details>
