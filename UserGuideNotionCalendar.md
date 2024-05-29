@@ -1,7 +1,7 @@
 ![Header](./images/NotionGuideBanner1.jpg)
 
 <span style="color:red">
-**IN PROGRESS!!**
+**DRAFT IN PROGRESS!!   DRAFT IN PROGRESS!!   DRAFT IN PROGRESS!!**
 </span>
 
 # Notion Calendar User Guide
@@ -10,19 +10,21 @@
 Welcome to Valerie's Notion Calendar User Guide. This guide will help you navigate and effectively use Notion's new Calendar feature to manage your schedule, events, and tasks. 
 
 ## Purpose
-Notion is a superb productivity tool, but having to leave Notion to manage your calendar in another app decreases efficiency. Notion Calendar addresses this problem by enabling users to connect their Google Calendar to Notion. This way, your project timelines, meetings, and other calendar items can be managed from one space along with your documents and databases. 
+Notion is a superb productivity tool, but having to leave Notion to manage your calendar in another app decreases efficiency. Notion Calendar addresses this problem by enabling you to connect your Google Calendar to Notion. This way, your project timelines, meetings, and other calendar items can be managed from one space along with your documents and databases. 
 
 ## Audience
-This user guide is for beginners who are looking to enhance their productivity within the Notion platform. You should create a Notion account before working through this user guide. 
+This user guide is for beginners who are looking to enhance their productivity within the Notion platform. Users should create a Notion account before working through this user guide. 
 
-## Table of Contents
+## Contents
 
 <details>
 <summary>1. Getting Started</summary>
+
 * Download both the Notion app and the Notion Calendar app to your device. Create an account or sign in using an existing account. 
 * Connect your desired Google account to your Notion Calendar. 
 * Link the Notion Calendar to your Notion workspace. 
-* *Optional*: You may choose to enable event notifications to receive reminders for upcoming events on your device. 
+* *Optional*: You may choose to enable event notifications to receive reminders for upcoming events on your device.
+
 </details>
 
 <details>
